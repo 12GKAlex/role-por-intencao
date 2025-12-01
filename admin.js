@@ -1,0 +1,1 @@
+function add(){ alert('Cadastro enviado (integração futura com PocketBase).'); }

@@ -1,0 +1,1 @@
+Projeto Role por Intenção - Estrutura inicial para deploy no Netlify.
